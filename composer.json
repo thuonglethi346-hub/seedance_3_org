@@ -1,0 +1,18 @@
+{
+  "name": "thuonglethi346-hub/seedance_3_org",
+  "description": "Seedance 3.0 official website backlink helper package.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://www.seedance-3.org",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Backlink\\\\": "src/"
+    }
+  },
+  "keywords": [
+    "seedance_3_org"
+  ]
+}
